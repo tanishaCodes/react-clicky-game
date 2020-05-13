@@ -1,0 +1,63 @@
+h5,
+h6 {
+  display: inline;
+  cursor: default;
+}
+
+h5 {
+  font-size: 2.5em;
+}
+
+.scoreB {
+  margin-bottom: 10px;
+}
+
+.col-left {
+  font-family: 'Cormorant Garamond', serif;
+  text-align: left;
+}
+
+.col-right {
+  font-family: 'Poppins', sans-serif;
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 40px;
+}
+
+.alert-danger {
+  font-family: "Montserrat", serif;
+  text-transform: uppercase;
+  color: #fff;
+  /* display: inline; */
+  background-color: rgb(238, 26, 90) !important;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  cursor: default;
+  /* margin: auto; */
+}
+
+.alert-success {
+  font-family: "Montserrat", serif;
+  text-transform: uppercase;
+  color: rgb(48, 35, 35);
+  /* display: inline; */
+  background-color: rgb(164, 206, 167) !important;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  cursor: default;
+}
+
+#root {
+  background-color: #ffffff;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: -30px;
+}
