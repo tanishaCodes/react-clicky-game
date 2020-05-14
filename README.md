@@ -7,8 +7,10 @@ of 12.
 <img src="client\public\assets\images\screenshot.jpg" alt="Screenshot of Flower Memory Game" width="700">
 
 ## Technologies Used
--React
--Node dependancies
--JavaScript/ES6
--Bulma CSS
--Google Fonts
+* React
+* Node dependancies
+* JavaScript/ES6
+* Bulma CSS
+* Google Fonts
+
+Happy Playing! :relaxed:
