@@ -90,12 +90,13 @@ class App extends Component {
           className="alert alert-success"
           style={{ opacity: this.state.showSuccess }}
         >
-          Yay, you haven't clicked on duplicates!
+          Yay, you haven't clicked on duplicates! You win!
           </div>
         <Score
           title="Flower Memory Game"
-          topScore={this.state.topScore}
           score={this.state.score}
+          topScore={this.state.topScore}
+          
           
         />
         <div className="columns is-multiline is-centered">
