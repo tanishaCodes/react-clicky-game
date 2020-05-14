@@ -5,4 +5,4 @@ clicking on only one flower once. Duplicate guesses cause you to lose and the ga
 of 12.
 
 
-<img src="client\public\assets\images\screenshot.jpg" alt="Screenshot of Flower Memory Game" width="500">
+<img src="client\public\assets\images\screenshot.jpg" alt="Screenshot of Flower Memory Game" width="700">
