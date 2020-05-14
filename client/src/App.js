@@ -93,7 +93,7 @@ class App extends Component {
           Yay, you haven't clicked on duplicates!
           </div>
         <Score
-          title="Flowers Memory Game"
+          title="Flower Memory Game"
           topScore={this.state.topScore}
           score={this.state.score}
           

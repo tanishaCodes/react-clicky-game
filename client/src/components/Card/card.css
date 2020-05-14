@@ -1,8 +1,7 @@
 .card {
-    font-size: 10px;
-    height: 225px;
-    width: 225px;
-    margin: 0 auto 30px;
+    height: 210px;
+    width: 210px;
+    margin: 0 auto 40px;
     border: none !important;
     background: none;
     background-repeat: no-repeat;

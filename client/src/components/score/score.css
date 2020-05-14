@@ -1,15 +1,16 @@
 h5,
 h6 {
+  font-size: 1.25em;
   display: inline;
   cursor: default;
 }
 
 h5 {
-  font-size: 2.5em;
+  font-size: 4em;
 }
 
 .scoreB {
-  margin-bottom: 10px;
+  margin-bottom: 45px;
 }
 
 .col-left {
