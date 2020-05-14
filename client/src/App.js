@@ -97,7 +97,7 @@ class App extends Component {
           score={this.state.score}
           topScore={this.state.topScore}
         />
-        <div className="row">
+        <div className="columns is-multiline is-centered">
           {this.state.flowers.map(flowers => (
             <Card
               key={flowers.id}
