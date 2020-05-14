@@ -94,8 +94,9 @@ class App extends Component {
           </div>
         <Score
           title="Flowers Memory Game"
-          score={this.state.score}
           topScore={this.state.topScore}
+          score={this.state.score}
+          
         />
         <div className="columns is-multiline is-centered">
           {this.state.flowers.map(flowers => (
