@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import flowers from "./cards.json";
-import Score from "./components/score";
-import flowerCards from "./components/flowerCards";
+import Score from "./components/Score";
+import Card from "./components/Card";
 
 // shuffle upon each click
 function shuffle(array) {
@@ -99,7 +99,7 @@ class App extends Component {
         />
         <div className="row">
           {this.state.flowers.map(flowers => (
-            <flowerCards
+            <Card
               key={flowers.id}
               id={flowers.id}
               image={flowers.image}

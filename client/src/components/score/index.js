@@ -1,9 +1,10 @@
 import React from "react";
 import "./score.css";
 
+
 function Score (props) {
   return (
-    <header className="hero is-$ is-bold scoreB">
+    <header className="hero is-info is-bold scoreB">
       <div className="hero-body row">
         <div className="col-md-6 col-left"><h5>{props.title}</h5></div>
         <div className="col-md-3 col-right"><h6>High Score {props.score}</h6></div>
