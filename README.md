@@ -14,5 +14,6 @@ https://flower-memory-game.herokuapp.com/
 * JavaScript/ES6
 * Bulma CSS
 * Google Fonts
+* Heroku
 
 Happy Playing! :relaxed:
